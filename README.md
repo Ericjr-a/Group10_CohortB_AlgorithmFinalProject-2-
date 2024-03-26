@@ -26,4 +26,7 @@ Utilizes both brute-force and divide-and-conquer strategies for optimal performa
 Visualizes the dataset and highlights the closest pairs, aiding in data analysis and collision detection.
 Customizable collision threshold for flexible sensitivity adjustment.
 
-Link to github repository :
+The dataset used was from : https://www.dropbox.com/sh/ehhv9thpuvb36jq/AADQowvv9FfQ8ZYdAPL9qJs1a?dl=0
+specifically , the 3D_VisualSim_10M.pbbs dataset was used
+
+Link to github repository : https://github.com/Ericjr-a/Group10_CohortB_AlgorithmFinalProject-2-/tree/main
