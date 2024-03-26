@@ -27,6 +27,6 @@ Visualizes the dataset and highlights the closest pairs, aiding in data analysis
 Customizable collision threshold for flexible sensitivity adjustment.
 
 The dataset used was from : https://www.dropbox.com/sh/ehhv9thpuvb36jq/AADQowvv9FfQ8ZYdAPL9qJs1a?dl=0
-specifically , the 3D_VisualSim_10M.pbbs dataset was used
+specifically , the 3D_VisualSim_10M.pbbs dataset was used. The dataset was too large to be tested on and even to be uploaded here so 200 entries of selected inputs were used from '3D_VisualSim_10M.pbbs'
 
 Link to github repository : https://github.com/Ericjr-a/Group10_CohortB_AlgorithmFinalProject-2-/tree/main
